@@ -1,4 +1,8 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=500&color=A877E0&multiline=true&width=800&height=95&lines=Hello%2C+it's+Priscilla+Gyamfi+%F0%9F%91%8B%F0%9F%8F%BE;Software+Engineer+*+Software+Engineer+in+Test+*+Lifelong+Learner;Based+in+Minneapolis)](https://git.io/typing-svg)
+
+
+
+
 
 <!--
 **cillacodes/cillacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
