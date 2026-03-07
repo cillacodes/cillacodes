@@ -12,14 +12,19 @@
 🌻  
   
 ### Skills 👩🏾‍💻  
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,html,css,tailwindcss,sass,figma,ruby,rails,github,git,gitlab,postman,sentry,selenium,jenkins&theme=dark&perline=15)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,html,css,tailwindcss,sass,figma,ruby,rails,github,git,gitlab,postman,sentry,selenium,jenkins&theme=dark&perline=9)](https://skillicons.dev)
 
 ### Currently Learning 🤓  
-[![aws](https://skillicons.dev/icons?i=aws&theme=dark&perline=15)](https://skillicons.dev)
-[![figma](https://skillicons.dev/icons?i=figma&theme=dark&perline=15)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=aws,figma,vite&theme=dark&perline=9)](https://skillicons.dev)
 
 ### Tools/Apps I like ⚙️  
+[![Tools/Apps](https://skillicons.dev/icons?i=vscode,notion,obsidian,codepen,devto,discord&theme=dark&perline=9)](https://skillicons.dev)
+
+### Preferred OS 💻  
+[![My Skills](https://skillicons.dev/icons?i=apple&theme=dark&perline=9)](https://skillicons.dev)
+ 
+<!--
+https://skillicons.devkcud.com/
 <img width="32" height="32" alt="vscode logo" src="https://github.com/user-attachments/assets/b117c613-6ed4-44db-a77d-2ced551db07a" />
 <img width="32" height="32" alt="notion logo" src="https://github.com/user-attachments/assets/5f9046c3-0260-4c39-bdd7-7bbb0d6f6719" />
 <img width="32" height="32" alt="spotify logo" src="https://github.com/user-attachments/assets/9354b1c9-3354-415c-8a8e-f6267e4161ba" />
@@ -27,33 +32,6 @@
 <img width="32" height="32" alt="devto logo" src="https://github.com/user-attachments/assets/e1b49d48-95b8-42a7-a0f9-c34ef0d7a509" />
 
 <img width="32" height="32" alt="discord logo" src="https://github.com/user-attachments/assets/0e679965-db50-4ae0-a67c-c2b82240f526" />
-
-### Preferred OS 💻  
-<img width="32" height="32" alt="mac logo" src="https://github.com/user-attachments/assets/00d7d2fd-0fed-4058-b9d8-70b7d0f5f1b8" />
- 
-<!--
-**cillacodes/cillacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Skills](https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,sass,ruby,rails,git,postman,sentry,selenium,jenkins,figma&theme=dark)](https://skillicons.dev)
-
-Currently Learning 🤓  
-[![Currently Learning](https://skillicons.dev/icons?i=aws,figma&theme=dark)](https://skillicons.dev)
-
-Tools I like ⚙️  
-[![Tools I Like](https://skillicons.dev/icons?i=notion,apple,vscode,obsidian,gmail,codepen,discord,devto&theme=dark)](https://skillicons.dev)  
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 <img width="32" height="32" alt="react logo" src="https://github.com/user-attachments/assets/81cfb7a7-2990-4699-ab81-05451b8eb247" />
